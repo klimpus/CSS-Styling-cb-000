@@ -50,4 +50,8 @@ background: aqua;
   font-family: 'Elsie Swash Cap', cursive;
 }
 
+#details a link {
+  color: black;
+  text-decoration: none;
 
+}
